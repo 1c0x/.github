@@ -1,7 +1,7 @@
 # 1c0x
 
 ## Socials
-[Discord](https://discord.gg/PcRKRdWZQy)
+[![Discord](https://discord.io/1c0x/badge)](https://discord.io/1c0x)
 
 [Reddit](https://www.reddit.com/r/1c0x/)
 
