@@ -5,6 +5,4 @@
 
 [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/1c0x?style=flat-square)](https://www.reddit.com/r/1c0x/)
 
-[Steam](https://steamcommunity.com/groups/oneczerox)
-
 [![Gitter](https://badges.gitter.im/oneczerox/community.svg)](https://gitter.im/oneczerox/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
