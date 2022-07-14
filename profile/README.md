@@ -1,6 +1,4 @@
-# Hey we make cool stuffs
-
-## todo: Make it clean
+# We make cool stuffs
 
 ## Socials
 [![Discord](https://discord.io/1c0x/badge)](https://discord.io/1c0x)
