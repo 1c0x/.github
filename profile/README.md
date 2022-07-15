@@ -1,4 +1,4 @@
-# We make cool stuffs
+# We make stuffs
 
 ## Socials
 [![Discord](https://discord.io/1c0x/badge)](https://discord.io/1c0x)
