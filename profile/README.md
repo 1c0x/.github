@@ -1,7 +1,7 @@
 # We make stuffs
 
 ## Socials
-[![Discord](https://discord.io/1c0x/badge)](https://discord.io/1c0x)
+[![Discord](https://discord.io/1c0x/badge)](https://dsc.gg/1c0x)
 
 [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/1c0x?style=flat-square)](https://www.reddit.com/r/1c0x/)
 
