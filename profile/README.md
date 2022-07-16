@@ -1,9 +1,8 @@
 <p align="center">
   <a href="https://1c0x.github.io">
-    <img width="150px" src="https://cdn.discordapp.com/attachments/926176591736889385/997484791639318618/1c0x__1_-removebg-preview.png">
+    <img width="150px" src="https://cdn.discordapp.com/attachments/926176591736889385/997789522819563662/1c0x.gif">
   </a>
 </p>
-<h1 align="center">1c0x</h1>
 <h2 align="center">Welcome to the 1c0x [One C Zero X]</h2>
 
 
